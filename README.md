@@ -1,2 +1,2 @@
-# Rsshool-cv
-https://github.com/giorgipkhakadze/Rsshool-cv.git
+# rsshool-cv
+https://github.com/giorgipkhakadze/rsshool-cv.git
